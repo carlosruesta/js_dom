@@ -33,3 +33,12 @@ Nesta aula, aprendemos:
 * Utilizar template strings
 * Colocar um elemento filho dentro do elemento pai utilizando o método appendChild
 * Criar elementos utilizando o método createElement
+
+### Aula 04 - Concluir tarefa
+
+Nesta aula, aprendemos:
+
+* Adicionar classe CSS utilizando o método toggle
+* Utilizar o atributo parentElement para subir um elemento na árvore do DOM
+* Encontrar o alvo do evento utilizando a propriedade target
+* Utilizar IIFE
