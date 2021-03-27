@@ -42,3 +42,11 @@ Nesta aula, aprendemos:
 * Utilizar o atributo parentElement para subir um elemento na árvore do DOM
 * Encontrar o alvo do evento utilizando a propriedade target
 * Utilizar IIFE
+
+### Aula 05 - Remover Tarefa - Componentizacao - CORS e Same Origin Police
+
+Nesta aula, aprendemos:
+
+Utilizar import/export
+Remover elementos do DOM com o método remove
+Entender Same Origin Police e CORS
