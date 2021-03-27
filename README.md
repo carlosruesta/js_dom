@@ -9,3 +9,11 @@ document.getElementById(‘id’) seleciona o elemento pelo id passado.
 document.getElementsByClassName(‘classe’) retorna um array dos elementos pelo nome da classe passada.
 document.getElementsByTagName(‘tag’) retorna um array dos elementos pelo nome da tag passada
 document.querySelectorAll(seletor) devolve todos os seletores com o mesmo nome
+
+### Aula 02 - Comportamento do formulário
+
+Nesta aula, aprendemos:
+
+Utilizar data-attributes
+Utilizar o método addEventListner para escutar eventos no elemento
+Prevenir o comportamento padrão do formulário
